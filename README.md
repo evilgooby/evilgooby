@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Danila С++ and GO developer
+- 👋 Hi, I’m Danila golang developer
 - 💞️ I'm looking for cooperation in interesting projects
 - 📫 How to reach me telegram: @evilgooby 
 - ⚡ Fun fact: I'm a fisherman
